@@ -11,7 +11,7 @@
 			<_id type="a">GUID 5a48460a-efc3-42a6-a897-56eb7b24010b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">EntidadesNegocio</_name>
-			<_modifiedTimeWeak type="a">7.27.2021::5:0:39</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.27.2021::5:0:27</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -21,9 +21,9 @@
 					<_hid type="a">GUID 9dae6d01-a24c-4cf4-b8d3-d2d325012a67</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.27.2021::5:0:39</_modifiedTime>
+			<_modifiedTime type="a">7.27.2021::5:0:27</_modifiedTime>
 			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">7.27.2021::5:0:39</weakCGTime>
+			<weakCGTime type="a">7.27.2021::5:0:27</weakCGTime>
 			<strongCGTime type="a">3.1.2021::16:26:15</strongCGTime>
 			<_defaultComposite type="s">GUID fb7c6d78-2c86-4cfc-b6c6-159051fea75f</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -134,8 +134,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.27.2021::5:0:39</_modifiedTime>
-			<_lastModifiedTime type="a">7.27.2021::5:0:39</_lastModifiedTime>
+			<_modifiedTime type="a">7.27.2021::5:0:27</_modifiedTime>
+			<_lastModifiedTime type="a">7.27.2021::5:0:27</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1024,7 +1024,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.100017 0 0 0.117007 90.201 232.504 </m_transform>
+			<m_transform type="a">0.100017 0 0 0.117007 383.201 499.504 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
