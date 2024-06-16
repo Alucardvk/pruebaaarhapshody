@@ -74,7 +74,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1166 617 </_DownRight>
+						<_DownRight type="a">1407 617 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -85,8 +85,8 @@
 								<m_nLength type="a">44</m_nLength>
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
-								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">604</m_ptMinPositionY>
+								<m_ptMinPositionX type="a">398</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">444</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">78</m_nLeft>
@@ -106,8 +106,8 @@
 								<_hid type="a">GUID f08e0fea-f8f6-4f4c-8080-5948e443fd11</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">542 1026 </_UpLeft>
-						<_DownRight type="a">2276 1822 </_DownRight>
+						<_UpLeft type="a">461 1026 </_UpLeft>
+						<_DownRight type="a">2358 1822 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -119,7 +119,7 @@
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
 								<m_ptMinPositionX type="a">199</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">604</m_ptMinPositionY>
+								<m_ptMinPositionY type="a">444</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">52</m_nLeft>
@@ -139,8 +139,8 @@
 								<_hid type="a">GUID be473886-edf3-42f5-8d6b-086084bf898c</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">64 607 </_UpLeft>
-						<_DownRight type="a">2077 1525 </_DownRight>
+						<_UpLeft type="a">0 607 </_UpLeft>
+						<_DownRight type="a">2188 1525 </_DownRight>
 						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -151,8 +151,8 @@
 								<m_nLength type="a">44</m_nLength>
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
-								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">806</m_ptMinPositionY>
+								<m_ptMinPositionX type="a">597</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">444</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">104</m_nLeft>
@@ -173,7 +173,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1769 999 </_DownRight>
+						<_DownRight type="a">2382 999 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -184,8 +184,8 @@
 								<m_nLength type="a">44</m_nLength>
 								<m_nFlags type="a">2</m_nFlags>
 								<m_showCmd type="a">2</m_showCmd>
-								<m_ptMinPositionX type="a">398</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">604</m_ptMinPositionY>
+								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">444</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">26</m_nLeft>
@@ -205,15 +205,15 @@
 								<_hid type="a">GUID fba87b2c-329f-469b-835d-cc5d1041d761</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">244 616 </_UpLeft>
-						<_DownRight type="a">1615 1318 </_DownRight>
+						<_UpLeft type="a">0 616 </_UpLeft>
+						<_DownRight type="a">1673 1318 </_DownRight>
 						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\Asus\OneDrive\Escritorio\LicenciaFuncionamiento22v3_Modificar\LicenciaFuncionamiento22v3\LicenciaFuncionamiento22\LicenciaFuncionamiento22</_fullName>
+			<_fullName type="a">C:\Users\Asus\OneDrive\Escritorio\aaa\probargit\pruebaaarhapshody\LicenciaFuncionamiento22v3_Modificar\LicenciaFuncionamiento22v3\LicenciaFuncionamiento22\LicenciaFuncionamiento22</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
